@@ -1,8 +1,12 @@
 body{
-background-color: rgb(190, 181, 181);
+background-color: rgb(255, 255, 255);
 }
 .titlu{
-    background-color: rgb(190, 181, 181);;
+    background-image: url(img/wallpaper.jpg);
+    margin-left:auto;
+    margin-right:auto;
+    padding-top:20px;
+    padding-bottom:20px;
     text-align: center;
 }
 .cuprins{
@@ -42,6 +46,12 @@ display:block;
     margin-left:30%;
 
 }
-  
+.sfarsit{
+    background: orange;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    text-align: center;
+}
   
   
